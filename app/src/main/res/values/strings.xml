@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">15_1_ViewPager2</string>
+    <string name="exit">Выход</string>
+    <string name="toolbarTitle">Картинная галерея</string>
+</resources>
